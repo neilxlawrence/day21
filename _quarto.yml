@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs   # ensures GitHub Pages will work
+  resources:
+    - CNAME
 
 website:
   title: "#day21"
