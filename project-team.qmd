@@ -1,0 +1,51 @@
+---
+title: "Project team"
+toc: false
+---
+
+## Project Team
+
+Welcome to the **day21** project team!\
+
+------------------------------------------------------------------------
+
+:::: team-grid
+::: team-member
+<h3>Dr Kayleigh Lawrence</h3>
+
+<p><em>Project lead</em></p>
+
+<p>General Practice Registrar</p>
+
+<p>Yorkshire & Humber Future Leaders Fellow</p>
+:::
+::::
+
+------------------------------------------------------------------------
+
+```{=html}
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.team-member {
+  text-align: center;
+  padding: 1rem;
+  background: #fafafa;
+  border-radius: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;get
+  margin-bottom: 0.75rem;
+}
+</style>
+```

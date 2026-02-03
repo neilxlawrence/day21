@@ -1,20 +1,35 @@
 ---
-title: "day21"
+title: "#day21"
+toc: false
 ---
 
-<div style="text-align: center;">
+::: {style="text-align: center;"}
 
-Welcome to the day21 research study website
+# Welcome to the #day21 website
 
-Please note, this study is not yet recruiting, pending HRA ethical review.
-
-Check back in 2026 for updates after recruitment is open!
-
-![](images/day21_logo_white.png){width=200px}
+Fertility can return as little as 21 days after delivery.
+<br>
+The World Health Organisation recommends an interpregnancy interval of 2 years.
+<br>
+Yet 1 in 13 mothers fall pregnant within 12 months of delivery. 
+<br>
+Know your options. Make informed choices.
+<br>
+️Your body, your decisions, your timeline.
 
 <br>
 
-For more information please contact <n.r.lawrence@sheffield.ac.uk>
+::: {.column-screen}
+![](images/day21_transparent.png){width="90%" fig-align="center"}
+:::
 
-</div>
+<br>
 
+For more information please follow us on social media:
+
+[Instagram](https://instagram.com/postnatalcontraception)
+
+Get in touch by e-mail:
+
+postnatalcontraception\@gmail.com
+:::

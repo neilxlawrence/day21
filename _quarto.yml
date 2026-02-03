@@ -3,23 +3,30 @@ project:
   output-dir: docs   # ensures GitHub Pages will work
 
 website:
-  title: "day21"
+  title: "#day21"
   navbar:
+    background: "#6A317F"  # This sets the banner to your logo purple
+    type: dark             # This makes the text "Home", "About", etc. white
+    logo: images/day21_transparent.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: study-team.qmd
-        text: Study team
-    logo: images/babyphono_logo_purple.png
-    
+      - href: project-team.qmd
+        text: Project team
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/postnatalcontraception
+        
+
 format:
   html:
     pretty_urls: true
     include-in-header: meta.html
     theme:
       - cosmo
-      - brand
+      - darkly
+    linkcolor: "white"
     css: styles.css
     toc: true
 
