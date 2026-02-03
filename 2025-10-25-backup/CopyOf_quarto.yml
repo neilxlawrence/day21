@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs   # ensures GitHub Pages will work
+
+website:
+  title: "day21"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+    
+    logo: images/babyphono_logo_purple.png
+    
+format:
+  html:
+    pretty_urls: true
+    include-in-header: meta.html
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

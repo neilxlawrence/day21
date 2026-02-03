@@ -1,0 +1,77 @@
+---
+title: "Study team"
+---
+
+## Our Study Team
+
+Welcome to the **day21** study team!  
+Our group includes clinicians, researchers, and data scientists collaborating to improve the early diagnosis of congenital heart disease.
+
+---
+
+<div class="team-grid">
+
+<div class="team-member">
+  <img src="images/neil_lawrence_circle.png" alt="Neil Lawrence" class="team-photo">
+  <h3>Dr Neil Lawrence</h3>
+  <p><em>Chief Investigator</em></p>
+  <p>NIHR Doctoral Research Fellow</p>
+  <p>Paediatric Registrar</p>
+</div>
+
+<div class="team-member">
+  <img src="images/simon_clark_circle.png" alt="Simon Clark" class="team-photo">
+  <h3>Dr Simon Clark</h3>
+  <p><em>Principal Investigator</em></p>
+  <p>Consultant Neonatologist</p>
+</div>
+
+<div class="team-member">
+  <img src="images/tim_chico_circle.png" alt="Tim Chico" class="team-photo">
+  <h3>Professor Tim Chico</h3>
+  <p><em>Co-Investigator</em></p>
+  <p>Professor of Cardiology</p>
+</div>
+
+<div class="team-member">
+  <img src="images/jeremy_dawson_circle.png" alt="Jeremy Dawson" class="team-photo">
+  <h3>Professor Jeremy Dawson</h3>
+  <p><em>Co-Investigator</em></p>
+  <p>Professor of Statistics</p>
+</div>
+
+<div class="team-member">
+  <img src="images/louis_stokes_circle.png" alt="Louis Stokes" class="team-photo">
+  <h3>Dr Louis Stokes</h3>
+  <p><em>Co-Investigator</em></p>
+  <p>Qualitative Researcher</p>
+</div>
+
+</div>
+
+---
+
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.team-member {
+  text-align: center;
+  padding: 1rem;
+  background: #fafafa;
+  border-radius: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;get
+  margin-bottom: 0.75rem;
+}
+</style>
