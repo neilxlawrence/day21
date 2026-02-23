@@ -15,3 +15,7 @@ h2.subtitle {
 .navbar a, .navbar-brand {
   color: white !important;
 }
+
+.text-center {
+  text-align: center;
+}

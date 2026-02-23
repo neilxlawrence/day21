@@ -1,35 +1,48 @@
 ---
-title: "#day21"
+title: "Fertility returns at #day21 after a delivery"
 toc: false
 ---
 
-::: {style="text-align: center;"}
-
-# Welcome to the #day21 website
-
-Fertility can return as little as 21 days after delivery.
-<br>
-The World Health Organisation recommends an interpregnancy interval of 2 years.
-<br>
-Yet 1 in 13 mothers fall pregnant within 12 months of delivery. 
-<br>
-Know your options. Make informed choices.
-<br>
-️Your body, your decisions, your timeline.
-
-<br>
-
-::: {.column-screen}
+::: {.text-center}
 ![](images/day21_transparent.png){width="90%" fig-align="center"}
 :::
 
-<br>
+::: {.text-center}
+The World Health Organisation recommends a 2 year gap between pregnancies.
 
+This supports healing, nutrient recovery, and bonding with the newborn.
+
+97% of new mums do not want to fall pregnant again within 12 months of a delivery.
+
+Yet 1 in 13 new mothers DO fall pregnant within 12 months of delivery.
+
+Pregnancy gaps of less than 12 months are associated with poorer outcomes for both mother and baby - including preterm births and low birth weights.
+
+Nearly half of all pregnancies in the UK are reported to be unplanned or ambivalent.
+
+Abortion rates are at the highest since records began.
+
+Access to postnatal contraception services is a postcode lottery across the UK.
+
+We aim to support informed choice and autonomy. By raising awareness of the gravity of this issue we hope to demand better postnatal contraception services.
+
+Know your options. Make informed choices.
+
+Your body, your decisions, your timeline.
+:::
+
+::: {.text-center}
+![](images/day21_transparent.png){width="90%" fig-align="center"}
+:::
+
+::: {.text-center}
 For more information please follow us on social media:
 
-[Instagram](https://instagram.com/postnatalcontraception)
+<a href="https://instagram.com/postnatalcontraception" target="_blank">
+  <i class="bi bi-instagram" style="font-size: 2rem;"></i>
+</a>
 
 Get in touch by e-mail:
 
-postnatalcontraception\@gmail.com
+postnatalcontraception@gmail.com
 :::

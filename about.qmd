@@ -4,15 +4,17 @@ toc: false
 ---
 
 ::: {style="text-align: center;"}
-Welcome to the day21 project website
 
-<br>
+Welcome to #day21
 
 ![](images/why.png){width="80%" fig-align="center"}
 
-<br>
+For more information please follow us on social media:
 
-For more information please contact postnatalcontraception\@gmail.com
+[Instagram](https://instagram.com/postnatalcontraception)
 
-<br><br>
+Get in touch by e-mail:
+
+postnatalcontraception@gmail.com
+
 :::

@@ -28,6 +28,7 @@ format:
     theme:
       - cosmo
       - darkly
+    bootstrap-icons: true
     linkcolor: "white"
     css: styles.css
     toc: true
