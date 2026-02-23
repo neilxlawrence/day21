@@ -3,11 +3,11 @@ title: "Fertility returns at #day21 after a delivery"
 toc: false
 ---
 
-::: {.text-center}
+::: text-center
 ![](images/day21_transparent.png){width="90%" fig-align="center"}
 :::
 
-::: {.text-center}
+::: text-center
 The World Health Organisation recommends a 2 year gap between pregnancies.
 
 This supports healing, nutrient recovery, and bonding with the newborn.
@@ -31,18 +31,16 @@ Know your options. Make informed choices.
 Your body, your decisions, your timeline.
 :::
 
-::: {.text-center}
+::: text-center
 ![](images/day21_transparent.png){width="90%" fig-align="center"}
 :::
 
-::: {.text-center}
+::: text-center
 For more information please follow us on social media:
 
-<a href="https://instagram.com/postnatalcontraception" target="_blank">
-  <i class="bi bi-instagram" style="font-size: 2rem;"></i>
-</a>
+<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
 
 Get in touch by e-mail:
 
-postnatalcontraception@gmail.com
+postnatalcontraception\@gmail.com
 :::
