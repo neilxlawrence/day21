@@ -53,3 +53,6 @@ Welcome to the **#day21** project team!
 </style>
 ```
 
+::: text-center
+![](images/day21_transparent.png){width="90%" fig-align="center"}
+:::
