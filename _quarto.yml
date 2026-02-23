@@ -16,6 +16,12 @@ website:
       - about.qmd
       - href: project-team.qmd
         text: Project team
+      - href: endorsements.qmd
+        text: Endorsements
+      - href: petition.qmd
+        text: Petition
+      - href: references.qmd
+        text: References
     right:
       - icon: instagram
         href: https://www.instagram.com/postnatalcontraception

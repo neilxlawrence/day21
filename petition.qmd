@@ -1,0 +1,35 @@
+---
+title: "References"
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+          .quarto-title {
+            display: none;
+          }
+          </style>
+---
+
+::: {style="text-align: center;"}
+## Endorsements
+:::
+
+::: {style="text-align: left;"}
+
+Join the petition to advocate for #day21!
+
+Please check back for further details
+
+:::
+
+::: text-center
+For more information please follow us on social media:
+
+<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
+
+Get in touch by e-mail:
+
+postnatalcontraception\@gmail.com
+:::
