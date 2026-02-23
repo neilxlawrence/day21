@@ -13,15 +13,13 @@ format:
 ---
 
 ::: {style="text-align: center;"}
-## Endorsements
+## Petition to the UK government
 :::
 
 ::: {style="text-align: left;"}
-
 Join the petition to advocate for #day21!
 
 Please check back for further details
-
 :::
 
 ::: text-center
