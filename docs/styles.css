@@ -61,4 +61,18 @@ h2, h3, p, .team-member {
   border-radius: 50%;
   margin-bottom: 0.75rem;
 }
+
+.ref-list {
+  text-align: left !important;
+  max-width: 800px;      /* Keeps the lines from getting too long on wide screens */
+  margin: 2rem auto;     /* Centers the whole block on the page while text stays left */
+  padding-left: 20px;    /* Gives it some breathing room from the edge */
+}
+
+/* Optional: if you want the numbers to look neat */
+.ref-list p {
+  text-align: left !important;
+  margin-bottom: 1rem;
+}
+
 </style>

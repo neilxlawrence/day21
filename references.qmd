@@ -16,7 +16,7 @@ format:
 ## References
 :::
 
-::: {style="text-align: left;"}
+::: {.ref-list}
 1)  Beyond Barriers: Reimagining Access to Post-Pregnancy Contraception – The Case for Change. College of Sexual and Reproductive Healthcare (CoSRH); Royal College of Obstetricians and Gynaecologists (RCOG). 2025.
 
 2)  Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007.
