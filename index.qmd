@@ -1,5 +1,5 @@
 ---
-title: "Fertility returns at #day21 after a delivery"
+title: "Fertility returns at #day21 after childbirth"
 toc: false
 ---
 
@@ -44,4 +44,3 @@ Get in touch by e-mail:
 
 postnatalcontraception\@gmail.com
 :::
-

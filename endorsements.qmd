@@ -17,11 +17,19 @@ format:
 :::
 
 ::: {style="text-align: left;"}
-
 #day21 is endorsed and supported by the following organisations:
 
+South Yorkshire Integrated Care Board
 
+[southyorkshire.icb.nhs.uk](https://southyorkshire.icb.nhs.uk)
+:::
 
+::: text-center
+![](images/map_icb.png){width="90%" fig-align="center"}
+:::
+
+::: text-center
+![](images/sy_icb.png){width="90%" fig-align="center"}
 :::
 
 ::: text-center
