@@ -14,6 +14,8 @@ Welcome to the **#day21** project team!
 ::: team-member
 <h2>Dr Kayleigh Lawrence</h2>
 
+<img src="images/kayleigh_lawrence_circle_transparent.png" alt="Dr Kayleigh Lawrence" class="team-photo">
+
 <p><em>Project lead</em></p>
 
 <p>General Practice Registrar</p>
