@@ -1,0 +1,14 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20,110 C20,60 80,30 150,25 C250,15 350,35 480,45 C460,60 490,80 470,110 C450,140 400,160 300,175 C200,190 80,180 40,160 C20,145 10,130 20,110 Z" 
+        fill="#E6E0F0" />
+  
+  <text x="50%" y="60%" 
+        font-family="Arial, sans-serif" 
+        font-size="110" 
+        font-weight="bold" 
+        fill="#7B4B9C" 
+        text-anchor="middle" 
+        alignment-baseline="middle">
+    #day21
+  </text>
+</svg>
