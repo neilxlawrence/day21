@@ -7,13 +7,16 @@ project:
 website:
   title: "#day21"
   navbar:
-    background: "#6A317F"  # This sets the banner to your logo purple
+    background: "#8064A2"  # This sets the banner to your logo purple  #8064A2 old colour #6A317F
     type: dark             # This makes the text "Home", "About", etc. white
     logo: images/day21_transparent.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: public.qmd
+        text: Public
+      - href: professionals.qmd
+        text: Professionals
       - href: project-team.qmd
         text: Project team
       - href: endorsements.qmd
