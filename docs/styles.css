@@ -61,4 +61,8 @@ h2, h3, p, .team-member {
   border-radius: 50%;
   margin-bottom: 0.75rem;
 }
+
+.team-member h2 span {
+  display: block;
+}
 </style>
