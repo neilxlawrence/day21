@@ -27,7 +27,7 @@ h2, h3, p, .team-member {
 
 /* 3. NAVBAR STYLING */
 .navbar {
-  background-color: #8064A2 !important;
+  background-color: purple !important;
 }
 
 .navbar a, .navbar-brand {
@@ -60,9 +60,5 @@ h2, h3, p, .team-member {
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 0.75rem;
-}
-
-.team-member h2 span {
-  display: block;
 }
 </style>
