@@ -18,7 +18,7 @@ format:
 
 ::: text-center
 
-The World Health Organisation and Royal College of Obstetricians and Gynaecologists recommend a gap of 18-24 months between pregnancies (2).
+The World Health Organisation and Royal College of Obstetricians and Gynaecologists recommend a gap of 18-24 months between pregnancies.
 
 This supports healing, nutrient recovery, and bonding with the newborn.
 

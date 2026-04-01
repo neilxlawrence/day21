@@ -17,13 +17,15 @@ format:
 :::
 
 ::: {.ref-list}
-1)  Javed, M., Baloch, F. N., & Verma, V. (2026). From Birth to Unintended Pregnancy: Postnatal Contraception Failures in the First Postpartum Year. Cureus, 18(3).
 
-2) Beyond Barriers: Reimagining Access to Post-Pregnancy Contraception – The Case for Change. College of Sexual and Reproductive Healthcare (CoSRH); Royal College of Obstetricians and Gynaecologists (RCOG). 2025.
+1) Beyond Barriers: Reimagining Access to Post-Pregnancy Contraception – The Case for Change. College of Sexual and Reproductive Healthcare (CoSRH); Royal College of Obstetricians and Gynaecologists (RCOG). 2025.
 
-3)  Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007.
+2)  Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007.
 
-4)  Abortion statistics in England and Wales. Office for Health Improvement and Disparities, Department of Health and Social Care; United Kingdom Government. [www.gov.uk/government/collections/abortion-statistics-for-england-and-wales](https://www.gov.uk/government/collections/abortion-statistics-for-england-and-wales) (last updated 15 January 2026)
+3)  Abortion statistics in England and Wales. Office for Health Improvement and Disparities, Department of Health and Social Care; United Kingdom Government. [www.gov.uk/government/collections/abortion-statistics-for-england-and-wales](https://www.gov.uk/government/collections/abortion-statistics-for-england-and-wales) (last updated 15 January 2026)
+
+4)  Javed, M., Baloch, F. N., & Verma, V. (2026). From Birth to Unintended Pregnancy: Postnatal Contraception Failures in the First Postpartum Year. Cureus, 18 (3).
+
 :::
 
 ::: text-center
