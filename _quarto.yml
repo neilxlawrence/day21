@@ -13,6 +13,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: public.qmd
         text: Public
       - href: professionals.qmd
