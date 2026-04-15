@@ -21,39 +21,58 @@ format:
 #day21 is endorsed and supported by the following organisations:
 
 
+<br>
+<br>
 
 South Yorkshire Integrated Care Board
 
 [southyorkshire.icb.nhs.uk](https://southyorkshire.icb.nhs.uk)
 :::
 
-::: text-center
-![](images/map_icb.png){width="90%" fig-align="center"}
-:::
 
-::: text-center
-![](images/sy_icb.png){width="90%" fig-align="center"}
-:::
-
-::: {style="text-align: left;"}
+<br>
 
 
 
+<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer">
+  <img src="images/sy_icb.png" style="width:90%; display:block; margin:0 auto;" alt="South Yorkshire ICB logo">
+</a>
+
+<br>
+<br>
+
+<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer">
+  <img src="images/map_icb.png" style="width:90%; display:block; margin:0 auto;" alt="South Yorkshire ICB map">
+</a>
+
+
+
+::: {style="text-align: center;"}
+
+
+<br>
+<br>
 
 The Lowdown: A Women's Health Review Platform
 
 
 [TheLowdown.com](https://thelowdown.com/)
 
+<br>
+
 :::
 
 ::: text-center
-![](images/LD_logo_white.png){width="90%" fig-align="center"}
+<a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer">
+  <img src="images/LD_logo_white.png" style="width:90%; display:block; margin:0 auto;" alt="The Lowdown">
+</a>
 :::
 
 ::: text-center
 
 
+<br>
+<br>
 
 
 For more information please follow us on social media:
