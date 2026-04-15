@@ -17,7 +17,10 @@ format:
 :::
 
 ::: {style="text-align: left;"}
+
 #day21 is endorsed and supported by the following organisations:
+
+
 
 South Yorkshire Integrated Care Board
 
@@ -32,7 +35,27 @@ South Yorkshire Integrated Care Board
 ![](images/sy_icb.png){width="90%" fig-align="center"}
 :::
 
+::: {style="text-align: left;"}
+
+
+
+
+The Lowdown: A Women's Health Review Platform
+
+
+[TheLowdown.com](https://thelowdown.com/)
+
+:::
+
 ::: text-center
+![](images/LD_logo_white.png){width="90%" fig-align="center"}
+:::
+
+::: text-center
+
+
+
+
 For more information please follow us on social media:
 
 <a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
