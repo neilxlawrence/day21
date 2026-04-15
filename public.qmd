@@ -17,15 +17,13 @@ format:
 :::
 
 ::: text-center
+For more information on your contraception options please speak to your healthcare professional or visit:'
 
-For more information on your contraception options please visit: 
+<https://www.contraceptionchoices.org/>
 
-[https://www.contraceptionchoices.org/](https://www.contraceptionchoices.org/)
+Find your local contraception service:
 
-Find your local contraception service: 
-
-[https://www.nhs.uk/contraception/](https://www.nhs.uk/contraception/)
-
+<https://www.nhs.uk/contraception/>
 :::
 
 ::: text-center
