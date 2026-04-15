@@ -18,7 +18,7 @@ format:
 
 :::
 
-::: {style="text-align: left;"}
+::: {style="text-align: centre;"}
 Join the petition to advocate for #day21!
 
 Please check back for further details

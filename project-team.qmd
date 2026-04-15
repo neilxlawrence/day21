@@ -11,33 +11,29 @@ Welcome to the **#day21** project team!
 
 :::: team-grid
 ::: team-member
-<h2>
-  <span>Dr Kayleigh</span>
-  <span>Lawrence</span>
-</h2>
+<h2>Dr Kayleigh<br>Lawrence</h2>
 
 <img src="images/kayleigh_lawrence_circle_white_transparent.png" alt="Dr Kayleigh Lawrence" class="team-photo"/>
 
 <p><em>Joint Project Lead</em></p>
 
-<p>General Practice Registrar</p>
+<p>General Practice<br>Registrar</p>
 
-<p>Yorkshire & Humber Future Leaders Fellow</p>
+<p>Yorkshire & Humber<br>Future Leaders Fellow</p>
 :::
 
 ::: team-member
-<h2>
-  <span>Dr Amy</span>
-  <span>Berry</span>
-</h2>
+
+<h2>Dr Amy<br>Berry</h2>
+
 
 <img src="images/amy_berry_circle_white_transparent.png" alt="Dr Amy Berry" class="team-photo"/>
 
 <p><em>Joint Project Lead</em></p>
 
-<p>Sexual and Reproductive Health Registrar</p>
+<p>Sexual and Reproductive Health<br>Registrar</p>
 
-<p>University Hospitals of Liverpool Group Trust</p>
+<p>University Hospitals of Liverpool<br>Group Trust</p>
 :::
 ::::
 

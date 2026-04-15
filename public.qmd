@@ -17,7 +17,7 @@ format:
 :::
 
 ::: text-center
-For more information on your contraception options please speak to your healthcare professional or visit:'
+For more information on your contraception options please speak to your healthcare professional or visit:
 
 <https://www.contraceptionchoices.org/>
 

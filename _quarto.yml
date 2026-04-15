@@ -36,11 +36,8 @@ format:
   html:
     pretty_urls: true
     include-in-header: meta.html
-    theme:
-      - cosmo
-      - darkly
+    theme: darkly
     bootstrap-icons: true
-    linkcolor: "white"
     css: styles.css
     toc: true
 

@@ -16,7 +16,7 @@ format:
 ## Endorsements
 :::
 
-::: {style="text-align: left;"}
+::: {style="text-align: center;"}
 
 #day21 is endorsed and supported by the following organisations:
 

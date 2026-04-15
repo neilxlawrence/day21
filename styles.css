@@ -1,43 +1,65 @@
-<style>
-/* This specifically targets the gray chain icon */
-.anchorjs-link {
-  display: none !important;
-}
-
-/* Also hide the Quarto-specific anchor class just in case */
+/* Hide anchor link icons */
+.anchorjs-link,
 .quarto-anchor-link {
   display: none !important;
 }
 
-/* 2. HIDE THE CHAIN ICON */
-.anchorjs-link, .quarto-anchor-link {
-  display: none !important;
-}
-
-/* 1. FORCE TITLES TO CENTER */
-/* This targets the main title at the very top of the page */
-.title, .quarto-title-block, .quarto-title-meta {
+/* Centre page titles only */
+.title,
+.quarto-title-block,
+.quarto-title-meta {
   text-align: center !important;
 }
 
-/* Global centering for all headers and the team grid */
-h2, h3, p, .team-member {
-  text-align: center !important;
+/* Optional centred headings */
+h2, h3 {
+  text-align: center;
 }
 
-/* 3. NAVBAR STYLING */
-.navbar {
-  background-color: purple !important;
-}
-
-.navbar a, .navbar-brand {
+/* Page background and text */
+body {
+  background-color: black !important;
   color: white !important;
 }
 
-/* 4. TEAM GRID STYLING */
+/* Main content area */
+main,
+.content,
+.page-columns,
+.page-full {
+  background-color: black !important;
+  color: white !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: white !important;
+}
+
+/* Links */
+a {
+  color: white !important;
+}
+
+a:hover {
+  color: white !important;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #8064A2 !important;
+}
+
+.navbar a,
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+/* Team grid */
 .team-grid {
   display: grid;
-  justify-content: center; 
+  justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.5rem;
   margin: 1.5rem auto;
@@ -47,9 +69,9 @@ h2, h3, p, .team-member {
 .team-member {
   text-align: center;
   padding: 1rem;
-  background: transparent;
+  background: white;
   border-radius: 1rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
   max-width: 300px;
 }
@@ -61,4 +83,3 @@ h2, h3, p, .team-member {
   border-radius: 50%;
   margin-bottom: 0.75rem;
 }
-</style>

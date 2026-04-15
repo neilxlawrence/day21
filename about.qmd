@@ -17,14 +17,13 @@ format:
 :::
 
 ::: text-center
-
 The World Health Organisation and Royal College of Obstetricians and Gynaecologists recommend a gap of 18-24 months between pregnancies.
 
 This supports healing, nutrient recovery, and bonding with the newborn.
 
-97% of new mums do not want to fall pregnant again within 12 months of a delivery.
+97% of new mums do not want to fall pregnant again within 12 months of childbirth.
 
-Yet 1 in 13 new mothers DO fall pregnant within 12 months of delivery.
+Yet 1 in 13 new mothers DO fall pregnant within 12 months of childbirth.
 
 Pregnancy gaps of less than 12 months are associated with poorer outcomes for both mother and baby - including preterm births and low birth weights.
 
@@ -35,7 +34,6 @@ We aim to support informed choice and autonomy, by raising awareness of the basi
 Know your options. Make informed choices.
 
 Your body, your decisions, your timeline.
-
 :::
 
 ::: text-center
