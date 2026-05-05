@@ -28,7 +28,7 @@ format:
 
 :::
 
-::: text-center
+::: {style="text-align: center;"}
 For more information please follow us on social media:
 
 <a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
@@ -38,6 +38,6 @@ Get in touch by e-mail:
 postnatalcontraception\@gmail.com
 :::
 
-::: text-center
+::: {style="text-align: center;"}
 ![](images/day21_transparent.png){width="90%" fig-align="center"}
 :::
