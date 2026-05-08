@@ -21,14 +21,22 @@ format:
 
 <br> <br>
 
+The College of Sexual & Reproductive Healthcare
+
+[COSRH.org/](https://www.cosrh.org/)
+
+
+<a href="https://www.cosrh.org/" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare" style="width:90%; display:block; margin:0 auto;"/> </a>
+
+
+<br> <br>
+
 The Lowdown: A Women's Health Review Platform
 
 [TheLowdown.com](https://thelowdown.com/)
 
 <br>
-:::
 
-::: {style="text-align: center;"}
 <a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer"> <img src="images/LD_logo_white.png" alt="The Lowdown" style="width:90%; display:block; margin:0 auto;"/> </a>
 :::
 
