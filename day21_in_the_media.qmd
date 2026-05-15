@@ -17,23 +17,21 @@ format:
 :::
 
 ::: text-center
-
 Read CoSRH's May Presidential Update which features #day21 as part of a growing collaboration to bring attention to fertility return post-pregnancy:
 
 [COSRH.org/](https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx)
 
 <a href="https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/zara_transparent.png" alt="CoSRH Presidential update" style="width:80%; display:block; margin:0 auto;"/> </a>
-
-
 :::
 
 ::: text-center
-
 CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contraceptive care and amplifying women’s voices
 
 <br>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="80%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="80%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
 
 <br>
 
@@ -49,41 +47,33 @@ Discover the story behind #Day21 in our College of Sexual and Reproductive Healt
 
 <br>
 
-
-
 Watch to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
 <br>
-
 :::
 
-::: {style="text-align:center;"}
-::: {.iframe-container}
-::: {.responsive-iframe}
+::::: {style="text-align:center;"}
+:::: iframe-container
+::: responsive-iframe
+<iframe src="https://www.youtube.com/embed/ukDnjOFhnes?si=03xgiMbNZywyAyWY" title="YouTube video player" width="80%" height="352" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen>
 
-<iframe 
-  src="https://www.youtube.com/embed/ukDnjOFhnes?si=03xgiMbNZywyAyWY"
-  title="YouTube video player"
-  width="80%"
-  height="352"
-  frameborder="0"
-  allow="autoplay; encrypted-media; picture-in-picture"
-  allowfullscreen>
 </iframe>
-
 :::
-:::
-:::
+::::
+:::::
 
 <br>
+
+::: {style="text-align: center;"}
 
 [The whole of the Wellbeing of Women webinar on the updated Women’s Health Strategy can be found here, discussing #day21 from 44 minutes](https://www.youtube.com/watch?v=z2rmE4Nu7-M&t=2640s)
 
+<a href="https://www.youtube.com/watch?v=z2rmE4Nu7-M&t=2640s" target="_blank" rel="noopener noreferrer"> <img src="images/youtube_photos.png" alt="CoSRH Presidential update" style="width:80%; display:block; margin:0 auto;"/> </a>
+
+:::
+
 <br>
 
-
 ::: text-center
-
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
-
 :::
