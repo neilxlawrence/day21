@@ -9,7 +9,7 @@ Welcome to the **#day21** project team!
 
 ------------------------------------------------------------------------
 
-:::: team-grid
+::::: team-grid
 ::: team-member
 <h2>Dr Kayleigh<br>Lawrence</h2>
 
@@ -23,9 +23,7 @@ Welcome to the **#day21** project team!
 :::
 
 ::: team-member
-
 <h2>Dr Amy<br>Berry</h2>
-
 
 <img src="images/amy_berry_circle_white_transparent.png" alt="Dr Amy Berry" class="team-photo"/>
 
@@ -35,7 +33,7 @@ Welcome to the **#day21** project team!
 
 <p>University Hospitals of Liverpool<br>Group Trust</p>
 :::
-::::
+:::::
 
 ------------------------------------------------------------------------
 

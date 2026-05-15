@@ -13,7 +13,7 @@ format:
 ---
 
 ::: {style="text-align: center;"}
-## Welcome to #day21
+## #day21 in the Media
 :::
 
 ::: text-center
@@ -29,7 +29,7 @@ format:
 :::
 
 ::: text-center
-CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contraceptive care and amplifying women’s voices
+CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contraceptive care and amplifying women’s voices:
 
 <br>
 
@@ -55,7 +55,8 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 
 <br>
 
-[Watch on YouTube to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy](https://youtu.be/z2rmE4Nu7-M?si=x3goZbZqSPzPVkyc)
+
+Watch the video to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
 <br>
 :::
@@ -91,3 +92,4 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 ::: text-center
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
+s
