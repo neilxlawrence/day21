@@ -19,7 +19,6 @@ format:
 ::: {style="text-align: center;"}
 ![](images/why.png){width="80%" fig-align="center"}
 
-
 <br> <br>
 
 <a href="https://www.cosrh.org/Common/Uploaded%20files/documents/Executive%20Summary%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer"> <img src="images/executive_summary_cover.png" alt="Executive summary - Beyond Barriers: Reimagining access to post-pregnancy contraception; Executive summary" style="width:90%; display:block; margin:0 auto;"/> </a>
@@ -46,9 +45,3 @@ For more information please follow us on social media:
 
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
-
-
-
-
-
-

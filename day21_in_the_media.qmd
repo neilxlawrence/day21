@@ -82,7 +82,6 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 
 <br>
 
-
 ::: {style="text-align: center;"}
 <br> <br>
 
@@ -98,7 +97,19 @@ postnatalcontraception\@gmail.com
 <br>
 
 ::: text-center
+
+<br> <br>
+
+Get in touch by e-mail:
+
+postnatalcontraception\@gmail.com
+
+<br> <br>
+
+For more information please follow us on social media:
+
+<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
+
+
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
-
-s
