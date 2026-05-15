@@ -12,8 +12,22 @@ format:
           </style>
 ---
 
+::: text-center
+
+Discover the story behind #Day21 in our College of Sexual and Reproductive Health blog on fertility returning after childbirth and informed choice after birth:
+
+[COSRH.org blog](https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx)
+
+<a href="https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare Blog" style="width:50%; display:block; margin:0 auto;"/> </a>
+
+<br>
+<br> 
+:::
+
 ::: {style="text-align: center;"}
+
 ## Why is #day21 important?
+
 :::
 
 ::: text-center

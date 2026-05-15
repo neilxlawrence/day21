@@ -5,7 +5,7 @@ project:
     - CNAME
 
 website:
-  title: "#day21"
+  title: " "
   navbar:
     background: "#8064A2"  # This sets the banner to your logo purple  #8064A2 old colour #6A317F
     type: dark             # This makes the text "Home", "About", etc. white
@@ -23,6 +23,8 @@ website:
         text: Project team
       - href: endorsements.qmd
         text: Endorsements
+      - href: day21_in_the_media.qmd
+        text: "#day21 in the media"
       - href: petition.qmd
         text: Petition
       - href: references.qmd
