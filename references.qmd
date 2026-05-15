@@ -39,5 +39,5 @@ postnatalcontraception\@gmail.com
 :::
 
 ::: {style="text-align: center;"}
-![](images/day21_transparent.png){width="90%" fig-align="center"}
+![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::

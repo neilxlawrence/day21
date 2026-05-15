@@ -22,7 +22,7 @@ Read CoSRH's May Presidential Update which features #day21 as part of a growing 
 
 [COSRH.org/](https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx)
 
-<a href="https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/zara_transparent.png" alt="CoSRH Presidential update" style="width:50%; display:block; margin:0 auto;"/> </a>
+<a href="https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/zara_transparent.png" alt="CoSRH Presidential update" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 
 :::
@@ -33,11 +33,11 @@ CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contrac
 
 <br>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="50%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="80%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
-<a href="https://open.spotify.com/episode/1ujvlvnNJ2F1ce6iXuhfvd?si=f47b48cdbf8d4007" target="_blank" rel="noopener noreferrer"> <img src="images/voices_in_SRH.jpg" alt="Voices in SRH podcast" style="width:50%; display:block; margin:0 auto;"/> </a>
+<a href="https://open.spotify.com/episode/1ujvlvnNJ2F1ce6iXuhfvd?si=f47b48cdbf8d4007" target="_blank" rel="noopener noreferrer"> <img src="images/voices_in_SRH.jpg" alt="Voices in SRH podcast" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 <br>
 
@@ -45,7 +45,7 @@ Discover the story behind #Day21 in our College of Sexual and Reproductive Healt
 
 [COSRH.org blog](https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx)
 
-<a href="https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/kayleigh_amy_podcast_photo.jpg" alt="The College of Sexual and Reproductive Healthcare Blog" style="width:50%; display:block; margin:0 auto;"/> </a>
+<a href="https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/kayleigh_amy_podcast_photo.jpg" alt="The College of Sexual and Reproductive Healthcare Blog" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 <br>
 
@@ -57,19 +57,21 @@ Watch to hear CoSRH and the Women’s Health Ambassador for England discuss #Day
 
 :::
 
+::: {style="text-align:center;"}
 ::: {.iframe-container}
 ::: {.responsive-iframe}
 
 <iframe 
   src="https://www.youtube.com/embed/ukDnjOFhnes?si=03xgiMbNZywyAyWY"
   title="YouTube video player"
-  width="50%"
+  width="80%"
   height="352"
   frameborder="0"
   allow="autoplay; encrypted-media; picture-in-picture"
   allowfullscreen>
 </iframe>
 
+:::
 :::
 :::
 
@@ -82,6 +84,6 @@ Watch to hear CoSRH and the Women’s Health Ambassador for England discuss #Day
 
 ::: text-center
 
-![](images/day21_transparent.png){width="50%" fig-align="center"}
+![](images/day21_transparent.png){width="80%" fig-align="center"}
 
 :::

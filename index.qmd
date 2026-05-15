@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: text-center
-![](images/day21_transparent.png){width="90%" fig-align="center"}
+![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
 
 ::: text-center
@@ -22,7 +22,7 @@ Our key message is simple: Fertility returns at day 21 after childbirth — a fa
 :::
 
 ::: text-center
-![](images/day21_transparent.png){width="90%" fig-align="center"}
+![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
 
 ::: text-center

@@ -60,12 +60,12 @@ Welcome to the **#day21** project team!
   width: 150px;
   height: 150px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 80%;
   margin-bottom: 0.75rem;
 }
 </style>
 ```
 
 ::: text-center
-![](images/day21_transparent.png){width="90%" fig-align="center"}
+![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::

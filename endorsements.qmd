@@ -25,11 +25,11 @@ The College of Sexual & Reproductive Healthcare
 
 [COSRH.org/](https://www.cosrh.org/)
 
+<a href="https://www.cosrh.org/" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare" style="width:80%; display:block; margin:0 auto;"/> </a>
 
-<a href="https://www.cosrh.org/" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare" style="width:90%; display:block; margin:0 auto;"/> </a>
+<br> 
 
-
-<br> <br>
+s<br>
 
 The Lowdown: A Women's Health Review Platform
 
@@ -37,7 +37,7 @@ The Lowdown: A Women's Health Review Platform
 
 <br>
 
-<a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer"> <img src="images/LD_logo_white.png" alt="The Lowdown" style="width:90%; display:block; margin:0 auto;"/> </a>
+<a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer"> <img src="images/LD_logo_white.png" alt="The Lowdown" style="width:80%; display:block; margin:0 auto;"/> </a>
 :::
 
 ::: {style="text-align: center;"}
@@ -51,11 +51,11 @@ South Yorkshire Integrated Care Board
 
 <br>
 
-<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/sy_icb.png" alt="South Yorkshire ICB logo" style="width:90%; display:block; margin:0 auto;"/> </a>
+<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/sy_icb.png" alt="South Yorkshire ICB logo" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 <br> <br>
 
-<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/map_icb.png" alt="South Yorkshire ICB map" style="width:90%; display:block; margin:0 auto;"/> </a>
+<a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/map_icb.png" alt="South Yorkshire ICB map" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 
 
