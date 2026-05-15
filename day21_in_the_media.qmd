@@ -33,7 +33,7 @@ CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contrac
 
 <br>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ujvlvnNJ2F1ce6iXuhfvd?utm_source=generator" width="50%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
@@ -41,20 +41,47 @@ CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contrac
 
 <br>
 
-<!-- 
-#use this text: 'CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contraceptive care and amplifying women’s voices.' (CoSRH's asset please include a screenshot of this image from CoSRH to have at the side of the attention hooking text : Instagram - or should I email and ask for them direct assets - will they be clearer?
+Discover the story behind #Day21 in our College of Sexual and Reproductive Health blog on fertility returning after childbirth and informed choice after birth:
+
+[COSRH.org blog](https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx)
+
+<a href="https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/kayleigh_amy_podcast_photo.jpg" alt="The College of Sexual and Reproductive Healthcare Blog" style="width:50%; display:block; margin:0 auto;"/> </a>
+
+<br>
 
 
 
-#- Include a copy of the blog here (as well as the about tab) but also screenshot the asset from cosrh here: #day21 (@postnatalcontraception) • Instagram photos and videos:(this is too big for the 'about' tab) When does fertility return after childbirth and WHY does this matter? | CoSRH - 'Discover the story behind #Day21 in our CoSRH blog on fertility return after childbirth and informed choice after birth.' 
+Watch to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
-#https://youtu.be/z2rmE4Nu7-M?si=x3goZbZqSPzPVkyc - 'Watch from 44:50 to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy.' Maybe screenshot a section of them all smiling / semi happy to use next to the text?
--->
+<br>
 
 :::
 
+::: {.iframe-container}
+::: {.responsive-iframe}
+
+<iframe 
+  src="https://www.youtube.com/embed/ukDnjOFhnes?si=03xgiMbNZywyAyWY"
+  title="YouTube video player"
+  width="50%"
+  height="352"
+  frameborder="0"
+  allow="autoplay; encrypted-media; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+:::
+
+<br>
+
+[The whole of the Wellbeing of Women webinar on the updated Women’s Health Strategy can be found here, discussing #day21 from 44 minutes](https://www.youtube.com/watch?v=z2rmE4Nu7-M&t=2640s)
+
+<br>
+
+
 ::: text-center
 
-![](images/day21_transparent.png){width="90%" fig-align="center"}
+![](images/day21_transparent.png){width="50%" fig-align="center"}
 
 :::
