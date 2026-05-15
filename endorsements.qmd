@@ -27,7 +27,7 @@ The College of Sexual & Reproductive Healthcare
 
 <a href="https://www.cosrh.org/" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare" style="width:80%; display:block; margin:0 auto;"/> </a>
 
-<br> 
+<br>
 
 s<br>
 
@@ -48,7 +48,6 @@ South Yorkshire Integrated Care Board
 [southyorkshire.icb.nhs.uk](https://southyorkshire.icb.nhs.uk)
 :::
 
-
 <br>
 
 <a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/sy_icb.png" alt="South Yorkshire ICB logo" style="width:80%; display:block; margin:0 auto;"/> </a>
@@ -56,8 +55,6 @@ South Yorkshire Integrated Care Board
 <br> <br>
 
 <a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/map_icb.png" alt="South Yorkshire ICB map" style="width:80%; display:block; margin:0 auto;"/> </a>
-
-
 
 ::: {style="text-align: center;"}
 <br> <br>

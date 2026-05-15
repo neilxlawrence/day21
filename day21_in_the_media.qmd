@@ -17,13 +17,11 @@ format:
 :::
 
 ::: text-center
-
 [Read CoSRH's May Presidential Update which features #day21 as part of a growing collaboration to bring attention to fertility return post-pregnancy](https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx)
 
 <br>
 
 <a href="https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/zara_transparent.png" alt="CoSRH Presidential update" style="width:80%; display:block; margin:0 auto;"/> </a>
-
 
 <br>
 :::
@@ -55,7 +53,6 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 
 <br>
 
-
 Watch the video to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
 <br>
@@ -64,11 +61,9 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 ::::: {style="text-align:center;"}
 :::: iframe-container
 ::: responsive-iframe
-
 <iframe src="https://www.youtube.com/embed/ukDnjOFhnes?si=03xgiMbNZywyAyWY" title="YouTube video player" width="80%" height="352" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen>
 
 </iframe>
-
 :::
 ::::
 :::::
@@ -76,7 +71,6 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 <br>
 
 ::: {style="text-align: center;"}
-
 <br>
 
 [The whole of the Wellbeing of Women webinar on the updated Women’s Health Strategy can be found here, discussing #day21 from 44 minutes](https://www.youtube.com/watch?v=z2rmE4Nu7-M&t=2640s)
@@ -84,7 +78,21 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 <br>
 
 <a href="https://www.youtube.com/watch?v=z2rmE4Nu7-M&t=2640s" target="_blank" rel="noopener noreferrer"> <img src="images/youtube_photos.png" alt="CoSRH Presidential update" style="width:80%; display:block; margin:0 auto;"/> </a>
+:::
 
+<br>
+
+
+::: {style="text-align: center;"}
+<br> <br>
+
+For more information please follow us on social media:
+
+<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
+
+Get in touch by e-mail:
+
+postnatalcontraception\@gmail.com
 :::
 
 <br>
@@ -92,4 +100,5 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 ::: text-center
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
+
 s
