@@ -14,22 +14,42 @@ format:
 
 ::: {style="text-align: center;"}
 ## Welcome to #day21
+
+[Download our poster to display in your working area:](downloads/Poster_FINAL.pdf){download="POSTER.pdf"}
+
 :::
 
 ::: {style="text-align: center;"}
-![](images/why.png){width="80%" fig-align="center"}
+![](downloads/poster.jpg){width="80%" fig-align="center"}
+
+<div style="display:flex; justify-content:center; gap:2rem; flex-wrap:wrap;">
+
+  <a href="https://www.cosrh.org/Common/Uploaded%20files/documents/Executive%20Summary%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="images/executive_summary_cover.png"
+         alt="Executive summary - Beyond Barriers: Reimagining access to post-pregnancy contraception; Executive summary"
+         style="width:200px;" />
+  </a>
+
+  <a href="https://www.cosrh.org/Common/Uploaded%20files/documents/The%20Case%20for%20Change%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="images/full_report_cover.png"
+         alt="Full report - Beyond Barriers: Reimagining access to post-pregnancy contraception; Full report"
+         style="width:200px;" />
+  </a>
+
+  <a href="https://www.cosrh.org/Common/Uploaded%20files/documents/Best%20Practice%20Guide%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="images/best_practice_guide_cover.png"
+         alt="Guide to best practice - Beyond Barriers: Reimagining access to post-pregnancy contraception; A guide for best practice"
+         style="width:200px;" />
+  </a>
+
+</div>
+
 
 <br> <br>
 
-<a href="https://www.cosrh.org/Common/Uploaded%20files/documents/Executive%20Summary%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer"> <img src="images/executive_summary_cover.png" alt="Executive summary - Beyond Barriers: Reimagining access to post-pregnancy contraception; Executive summary" style="width:90%; display:block; margin:0 auto;"/> </a>
+[Patient Information Leaflet on postnatal contraception options](downloads/Manchester_leaflet_postnatal_contraception.pdf){download="LEAFLET.pdf"}
 
-<br> <br>
-
-<a href="https://www.cosrh.org/Common/Uploaded%20files/documents/The%20Case%20for%20Change%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer"> <img src="images/full_report_cover.png" alt="Full report - Beyond Barriers: Reimagining access to post-pregnancy contraception; Full report" style="width:90%; display:block; margin:0 auto;"/> </a>
-
-<br> <br>
-
-<a href="https://www.cosrh.org/Common/Uploaded%20files/documents/Best%20Practice%20Guide%20%E2%80%93%20Beyond%20Barriers%20%E2%80%93%20CoSRH%20RCOG.pdf" target="_blank" rel="noopener noreferrer"> <img src="images/best_practice_guide_cover.png" alt="Guide to best practice - Beyond Barriers: Reimagining access to post-pregnancy contraception; A guide for best practice" style="width:90%; display:block; margin:0 auto;"/> </a>
+[Leaflets available in several languages](https://sites.google.com/sheffield.ac.uk/the-app/leaflets?authuser=0)
 
 <br> <br>
 
