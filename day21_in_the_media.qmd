@@ -99,7 +99,6 @@ For more information please follow us on social media:
 
 :::
 
-<br>
 
 ::: text-center
 <br> <br>
@@ -108,8 +107,7 @@ Get in touch by e-mail:
 
 postnatalcontraception\@gmail.com
 
-<br> <br>
-
+<br> 
 
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
