@@ -16,7 +16,7 @@ format:
 ## #day21 in the Media
 :::
 
-::: text-center
+::: {style="text-align: center;"}
 
 [Discover the story behind #Day21 in our College of Sexual and Reproductive Health blog on fertility returning after childbirth and informed choice after births](https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx)
 
@@ -28,7 +28,7 @@ format:
 
 :::
 
-::: text-center
+::: {style="text-align: center;"}
 CoSRH podcast: Hear how #Day21 is challenging barriers in post-pregnancy contraceptive care and amplifying women’s voices:
 
 <br>
@@ -49,7 +49,7 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 :::
 
 
-::: text-center
+::: {style="text-align: center;"}
 [Read CoSRH's May Presidential Update which features #day21 as part of a growing collaboration to bring attention to fertility return post-pregnancy](https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx)
 
 <br>
@@ -59,7 +59,7 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 <br>
 :::
 
-::: text-center
+::: {style="text-align: center;"}
 
 Watch the video to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
@@ -100,8 +100,8 @@ For more information please follow us on social media:
 :::
 
 
-::: text-center
-<br> <br>
+::: {style="text-align: center;"}
+<br>
 
 Get in touch by e-mail:
 
