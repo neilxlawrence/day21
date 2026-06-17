@@ -29,7 +29,7 @@ format:
 
 ::: {style="text-align: center;"}
 <br>
-[Download our digital slide for your waiting room screens:](downloads/digital_slide.pdf){download="POSTER.pdf"}
+[Download our digital slide for your waiting room screens:](downloads/digital_slide.pdf){download="digital_slide.pdf"}
 <br>
 :::
 
@@ -60,6 +60,10 @@ format:
 <br>
  
 [Leaflets available in several languages](https://sites.google.com/sheffield.ac.uk/the-app/leaflets?authuser=0)
+
+<br>
+
+[Instructions to print our stickers on NHS blood bottle label printers ("ICE printers")](downloads/label_printing_instructions.docx){download="instructions.docx"}
 
 <br> <br>
 
