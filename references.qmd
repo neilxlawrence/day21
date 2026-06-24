@@ -13,22 +13,34 @@ format:
 ---
 
 ::: {style="text-align: center;"}
+
 ## References
+
 :::
 
-::: {.ref-list}
 
-1) Beyond Barriers: Reimagining Access to Post-Pregnancy Contraception – The Case for Change. College of Sexual and Reproductive Healthcare (CoSRH); Royal College of Obstetricians and Gynaecologists (RCOG). 2025.
+::: ref-list
 
-2)  Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007.
+1)  [Beyond Barriers: Reimagining Access to Post-Pregnancy Contraception – The Case for Change. College of Sexual and Reproductive Healthcare (CoSRH); Royal College of Obstetricians and Gynaecologists (RCOG). 2025](downloads/the_case_for_change.pdf){download="the_case_for_change.pdf"}
 
-3)  Abortion statistics in England and Wales. Office for Health Improvement and Disparities, Department of Health and Social Care; United Kingdom Government. [www.gov.uk/government/collections/abortion-statistics-for-england-and-wales](https://www.gov.uk/government/collections/abortion-statistics-for-england-and-wales) (last updated 15 January 2026)
+2)  [Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007](downloads/who_full_report.pdf){download="who_full_report.pdf"}
 
-4)  Javed, M., Baloch, F. N., & Verma, V. (2026). From Birth to Unintended Pregnancy: Postnatal Contraception Failures in the First Postpartum Year. Cureus, 18 (3).
+3)  Abortion statistics in England and Wales. Office for Health Improvement and Disparities, Department of Health and Social Care; United Kingdom Government. [www.gov.uk/government/collections/abortion-statistics-for-england-and-wales](https://www.gov.uk/government/collections/abortion-statistics-for-england-and-wales) (accessed 15th January 2026)
+
+4)  [Javed, M., Baloch, F. N., & Verma, V. (2026). From Birth to Unintended Pregnancy: Postnatal Contraception Failures in the First Postpartum Year. Cureus, 18 (3)](downloads/Javed_et_al.pdf){download="Javed_et_al.pdf"}
+
+5)  [Mühlrad, H., Björkegren, E., Haraldson, P., Bohm-Starke, N., Kopp Kallner, H. and Brismar Wendel, S. (2022) 'Interpregnancy interval and maternal and neonatal morbidity: a nationwide cohort study', Scientific Reports, 12, Article 17402](downloads/Muhlrad_et_al.pdf){download="Muhlrad_et_al.pdf"}
+
+6)  [Royal College of Obstetricians & Gynaecologists. Birth after Previous Caesarean Birth. Green-top Guideline No 45. October 2015](downloads/Green_top_guideline_45.pdf){download="green_top_guideline.pdf"}
+
+7)  [College of Sexual and Reproductive Healthcare. Contraception After Pregnancy. FSRH Guideline. October 2020](downloads/FSRH_guideline_contraception_after_pregnancy.pdf){download="FSRH_guideline_contraception_after_pregnancy.pdf"}
+
+8)  [National Institute for Health and Care Excellence. Scenario: Pre-conception advice for all women. NICE CKS. June 2025](downloads/NICE_contraception_advice_after_pregnancy.pdf){download="NICE_contraception_advice_after_pregnancy.pdf"} 
 
 :::
 
 ::: {style="text-align: center;"}
+
 For more information please follow us on social media:
 
 <a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
