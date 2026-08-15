@@ -68,7 +68,18 @@ South Yorkshire Integrated Care Board
 
 For more information please follow us on social media:
 
-<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
+<a href="https://instagram.com/postnatalcontraception" 
+   target="_blank"
+   style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+  
+  <i class="bi bi-instagram" 
+     style="font-size: 2rem; color: white;"></i>
+
+  <img src="images/instagram_white_wording_transparent_background.png"
+       alt="Instagram"
+       style="height: 64px; width: auto;">
+       
+</a>
 
 Get in touch by e-mail:
 
