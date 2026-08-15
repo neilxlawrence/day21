@@ -110,3 +110,19 @@ a:hover {
   height: 100%;
   border: 0; /* Remove iframe border */
 }
+
+.instagram-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.instagram-nav .bi-instagram {
+  font-size: 1.25rem;
+}
+
+.instagram-nav img {
+  height: 22px;
+  width: auto;
+  display: block;
+}

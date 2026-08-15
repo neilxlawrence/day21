@@ -1,4 +1,6 @@
 ---
+
+---
 title: "Fertility returns at #day21 after childbirth"
 toc: false
 ---
@@ -8,6 +10,7 @@ toc: false
 :::
 
 ::: text-center
+
 Our mission statement:
 
 The #Day21 team share clear and honest information about contraception (birth control) after having a baby.
@@ -15,6 +18,7 @@ The #Day21 team share clear and honest information about contraception (birth co
 Our message is simple: Fertility returns at day 21 after childbirth — a fact many people including healthcare professionals do not know.
 
 We help people understand their choices so they can decide what is best for themselves and their families. Our goal is to support planning for healthier and safer pregnancies by making important information easy to understand, and by standing up for fair access to postnatal contraception services for all.
+
 
 [**Why is this important?**](about.qmd)
 :::
@@ -26,8 +30,18 @@ We help people understand their choices so they can decide what is best for them
 ::: text-center
 For more information please follow us on social media:
 
-<a href="https://instagram.com/postnatalcontraception" target="_blank"> <i class="bi bi-instagram" style="font-size: 2rem;"></i> </a>
+<a href="https://instagram.com/postnatalcontraception" 
+   target="_blank"
+   style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+  
+  <i class="bi bi-instagram" 
+     style="font-size: 2rem; color: white;"></i>
 
+  <img src="images/instagram_white_wording_transparent_background.png"
+       alt="Instagram"
+       style="height: 64px; width: auto;">
+       
+</a>
 Get in touch by e-mail:
 
 postnatalcontraception\@gmail.com

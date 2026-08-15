@@ -30,9 +30,12 @@ website:
       - href: references.qmd
         text: References
     right:
-      - icon: instagram
-        href: https://www.instagram.com/postnatalcontraception
-        
+      - text: |
+          <span class="instagram-nav">
+            <i class="bi bi-instagram"></i>
+            <img src="/images/instagram_white_wording_transparent_background_small.png" alt="Instagram">
+          </span>
+        href: "https://www.instagram.com/postnatalcontraception/"
 
 format:
   html:
