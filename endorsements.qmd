@@ -45,6 +45,18 @@ The Lowdown: A Women's Health Review Platform
 <br>
 
 <a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer"> <img src="images/LD_logo_white.png" alt="The Lowdown" style="width:80%; display:block; margin:0 auto;"/> </a>
+
+<br>
+
+<br>
+
+AskAwayHealth: Women's healh answers from a UK GP - so you're prepared, not panicked
+
+[AskAwayHealth.org](https://askawayhealth.org/)
+
+<br>
+
+<a href="https://askawayhealth.org/" target="_blank" rel="noopener noreferrer"> <img src="images/askawayhealth_logo_and_quote.png" alt="AskAwayHealth" style="width:80%; display:block; margin:0 auto;"/> </a>
 :::
 
 ::: {style="text-align: center;"}
@@ -52,7 +64,7 @@ The Lowdown: A Women's Health Review Platform
 
 South Yorkshire Integrated Care Board
 
-[southyorkshire.icb.nhs.uk](https://southyorkshire.icb.nhs.uk)
+[SouthYorkshire.ICB.nhs.uk](https://southyorkshire.icb.nhs.uk)
 :::
 
 <br>
