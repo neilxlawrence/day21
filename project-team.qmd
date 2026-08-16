@@ -34,17 +34,6 @@ Welcome to the **#day21** project team!
 <p>University Hospitals of<br>Liverpool Group Trust</p>
 :::
 
-::: team-member
-<h2>Ms Victoria<br>Pirie</h2>
-
-<img src="images/Victoria_Pirie_circle_with_background.png" alt="Ms Victoria Pirie" class="team-photo"/>
-
-<p><em>Engagement Lead</em></p>
-
-<p>Specialist Contraceptive<br>Midwife</p>
-
-<p>Post-Birth Contreception<br>Network UK Co-Chair</p>
-:::
 
 :::::
 
