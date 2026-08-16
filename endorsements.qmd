@@ -19,26 +19,31 @@ format:
 ::: {style="text-align: center;"}
 #day21 is endorsed and supported by the following organisations:
 
-<br> <br>
+<br> <br> <br>
+
+<b>
 
 The College of Sexual & Reproductive Healthcare
+
+</b>
 
 [COSRH.org/](https://www.cosrh.org/)
 
 <a href="https://www.cosrh.org/" target="_blank" rel="noopener noreferrer"> <img src="images/cosrh_logo_without_writing_white.png" alt="The College of Sexual and Reproductive Healthcare" style="width:80%; display:block; margin:0 auto;"/> </a>
 
-<br> <br>
+<br> <br> <br>
 
-Dr Alison Wright, President of the Royal College of Obstetricians and Gynaecologists, said: 
+Dr Alison Wright, President of the Royal College of Obstetricians and Gynaecologists, said:
 
-"Far too many women face difficulties and delays in accessing contraception, including after giving birth. These barriers have real and lasting consequences for women's health, autonomy and future care needs. 
-#Day21 is an important campaign working to ensure women get the right contraception support after pregnancy, so they can make fully informed choices about their reproductive health."
+"Far too many women face difficulties and delays in accessing contraception, including after giving birth. These barriers have real and lasting consequences for women's health, autonomy and future care needs. #Day21 is an important campaign working to ensure women get the right contraception support after pregnancy, so they can make fully informed choices about their reproductive health."
 
-<br>
+<br> <br> <br>
 
-<br>
+<b>
 
 The Lowdown: A Women's Health Review Platform
+
+</b>
 
 [TheLowdown.com](https://thelowdown.com/)
 
@@ -46,11 +51,17 @@ The Lowdown: A Women's Health Review Platform
 
 <a href="https://thelowdown.com/" target="_blank" rel="noopener noreferrer"> <img src="images/LD_logo_white.png" alt="The Lowdown" style="width:80%; display:block; margin:0 auto;"/> </a>
 
-<br>
+<br> <br> <br>
+
+<b>
+
+AskAwayHealth 
+
+</b>
+
+Women's healh answers from a UK GP - so you're prepared, not panicked
 
 <br>
-
-AskAwayHealth: Women's healh answers from a UK GP - so you're prepared, not panicked
 
 [AskAwayHealth.org](https://askawayhealth.org/)
 
@@ -60,9 +71,13 @@ AskAwayHealth: Women's healh answers from a UK GP - so you're prepared, not pani
 :::
 
 ::: {style="text-align: center;"}
-<br> <br>
+<br> <br> <br>
+
+<b>
 
 South Yorkshire Integrated Care Board
+
+</b>
 
 [SouthYorkshire.ICB.nhs.uk](https://southyorkshire.icb.nhs.uk)
 :::
@@ -76,21 +91,25 @@ South Yorkshire Integrated Care Board
 <a href="https://southyorkshire.icb.nhs.uk" target="_blank" rel="noopener noreferrer"> <img src="images/map_icb.png" alt="South Yorkshire ICB map" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 ::: {style="text-align: center;"}
-<br> <br>
+<br> <br> <br>
 
 For more information please follow us on social media:
 
+```{=html}
 <a href="https://instagram.com/postnatalcontraception" 
    target="_blank"
    style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
-  
-  <i class="bi bi-instagram" 
+```
+
+<i class="bi bi-instagram" 
      style="font-size: 2rem; color: white;"></i>
 
-  <img src="images/instagram_white_wording_transparent_background.png"
+```{=html}
+<img src="images/instagram_white_wording_transparent_background.png"
        alt="Instagram"
        style="height: 64px; width: auto;">
-       
+```
+
 </a>
 
 Get in touch by e-mail:
