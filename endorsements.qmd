@@ -21,11 +21,9 @@ format:
 
 <br> <br> <br>
 
-<b>
-
+<p style="font-size: 1.4rem; font-weight: 500;">
 The College of Sexual & Reproductive Healthcare
-
-</b>
+</p>
 
 [COSRH.org/](https://www.cosrh.org/)
 
@@ -39,11 +37,10 @@ Dr Alison Wright, President of the Royal College of Obstetricians and Gynaecolog
 
 <br> <br> <br>
 
-<b>
-
+<p style="font-size: 1.4rem; font-weight: 500;">
 The Lowdown: A Women's Health Review Platform
 
-</b>
+</p>
 
 [TheLowdown.com](https://thelowdown.com/)
 
@@ -53,11 +50,11 @@ The Lowdown: A Women's Health Review Platform
 
 <br> <br> <br>
 
-<b>
+<p style="font-size: 1.4rem; font-weight: 500;">
 
 AskAwayHealth 
 
-</b>
+</p>
 
 Women's health answers from a UK GP - so you're prepared, not panicked
 
@@ -73,11 +70,12 @@ Women's health answers from a UK GP - so you're prepared, not panicked
 ::: {style="text-align: center;"}
 <br> <br> <br>
 
-<b>
+<p style="font-size: 1.4rem; font-weight: 500;">
+
 
 South Yorkshire Integrated Care Board
 
-</b>
+</p>
 
 [SouthYorkshire.ICB.nhs.uk](https://southyorkshire.icb.nhs.uk)
 :::
