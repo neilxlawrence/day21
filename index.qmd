@@ -8,7 +8,11 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
+<br>
+
+<p style="font-size: 1.4rem; font-weight: 500;">
 Our mission statement:
+</p>
 
 The #Day21 team share clear and honest information about contraception (birth control) after having a baby.
 
@@ -16,7 +20,11 @@ Our message is simple: Fertility returns at day 21 after childbirth — a fact m
 
 We help people understand their choices so they can decide what is best for themselves and their families. Our goal is to support planning for healthier and safer pregnancies by making important information easy to understand, and by standing up for fair access to postnatal contraception services for all.
 
+<br>
+
+<p style="font-size: 1.4rem; font-weight: 500;">
 [**Why is this important?**](about.qmd)
+</p>
 
 :::
 
@@ -25,6 +33,8 @@ We help people understand their choices so they can decide what is best for them
 :::
 
 ::: {style="text-align: center;"}
+
+<br>
 
 <p style="font-size: 1.4rem; font-weight: 500;">
   For more information please follow us on social media:
@@ -43,7 +53,9 @@ We help people understand their choices so they can decide what is best for them
 
 </a>
 
-<br><br>
+<br>
+
+<br>
 
 Get in touch by e-mail:
 
