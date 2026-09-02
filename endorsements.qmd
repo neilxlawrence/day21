@@ -93,7 +93,9 @@ South Yorkshire Integrated Care Board
 ::: {style="text-align: center;"}
 <br> <br> <br>
 
-For more information please follow us on social media:
+<p style="font-size: 1.4rem; font-weight: 500;">
+  For more information please follow us on social media:
+</p>
 
 ```{=html}
 <a href="https://instagram.com/postnatalcontraception" 

@@ -37,7 +37,7 @@ format:
 
 8)  [Abortion statistics in England and Wales. Office for Health Improvement and Disparities, Department of Health and Social Care; United Kingdom Government. www.gov.uk/government/collections/abortion-statistics-for-england-and-wales](downloads/abortion_statistics_in_england_and_wales.pdf){download="abortion_statistics_in_england_and_wales.pdf"} (accessed 2nd September 2026)
 
-9) [Public Health England (2021) Contraception return on investment tool: maternity and primary care settings](downloads/return_on_investment_tool_description.pdf){download="return_on_investment_tool_description.pdf"} [Download the tool](downloads/return_on_investment_tool.ods){download="return_on_investment_tool.ods"}
+9) [Public Health England (2021) Contraception return on investment tool: maternity and primary care settings](downloads/return_on_investment_tool_description.pdf){download="return_on_investment_tool_description.pdf"} [(Download the tool here)](downloads/return_on_investment_tool.ods){download="return_on_investment_tool.ods"}
 
 10)  [Report of a WHO technical consultation on birth spacing: Geneva, Switzerland 13–15 June 2005. Geneva: World Health Organization, 2007](downloads/who_technical_consultation_on_birth_spacing.pdf){download="who_technical_consultation_on_birth_spacing.pdf"}
 
@@ -47,14 +47,17 @@ format:
 
 13)  [Mühlrad, H., Björkegren, E., Haraldson, P., Bohm-Starke, N., Kopp Kallner, H. and Brismar Wendel, S. (2022) 'Interpregnancy interval and maternal and neonatal morbidity: a nationwide cohort study', Scientific Reports, 12, Article 17402](downloads/Muhlrad_et_al.pdf){download="Muhlrad_et_al.pdf"}
 
-
-
+<br>
 
 :::
 
 ::: {style="text-align: center;"}
 
-For more information please follow us on social media:
+<br>
+
+<p style="font-size: 1.4rem; font-weight: 500;">
+  For more information please follow us on social media:
+</p>
 
 <a href="https://instagram.com/postnatalcontraception" 
    target="_blank"

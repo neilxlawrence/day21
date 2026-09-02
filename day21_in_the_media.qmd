@@ -17,7 +17,6 @@ format:
 :::
 
 ::: {style="text-align: center;"}
-
 [Discover the story behind #Day21 in our College of Sexual and Reproductive Health blog on fertility returning after childbirth and informed choice after births](https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx)
 
 <br>
@@ -25,7 +24,6 @@ format:
 <a href="https://www.cosrh.org/Public/Blogs/when-does-fertility-return-after-childbirth-and-why-does-this-matter.aspx" target="_blank" rel="noopener noreferrer"> <img src="images/kayleigh_amy_podcast_photo.jpg" alt="The College of Sexual and Reproductive Healthcare Blog" style="width:80%; display:block; margin:0 auto;"/> </a>
 
 <br>
-
 :::
 
 ::: {style="text-align: center;"}
@@ -48,7 +46,6 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 <br>
 :::
 
-
 ::: {style="text-align: center;"}
 [Read CoSRH's May Presidential Update which features #day21 as part of a growing collaboration to bring attention to fertility return post-pregnancy](https://www.cosrh.org/Public/Public/Blogs/Presidents-Monthly-Updates-may-2026.aspx)
 
@@ -60,7 +57,6 @@ Subscribe to the full Voices in SRH podcast by listening on spotify:
 :::
 
 ::: {style="text-align: center;"}
-
 Watch the video to hear CoSRH and the Women’s Health Ambassador for England discuss #Day21 during the Wellbeing of Women webinar on the updated Women’s Health Strategy:
 
 <br>
@@ -93,23 +89,27 @@ Watch the video to hear CoSRH and the Women’s Health Ambassador for England di
 ::: {style="text-align: center;"}
 <br> <br>
 
-For more information please follow us on social media:
+<p style="font-size: 1.4rem; font-weight: 500;">
+  For more information please follow us on social media:
+</p>
 
+```{=html}
 <a href="https://instagram.com/postnatalcontraception" 
    target="_blank"
    style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
-  
-  <i class="bi bi-instagram" 
+```
+
+<i class="bi bi-instagram" 
      style="font-size: 2rem; color: white;"></i>
 
-  <img src="images/instagram_white_wording_transparent_background.png"
+```{=html}
+<img src="images/instagram_white_wording_transparent_background.png"
        alt="Instagram"
        style="height: 64px; width: auto;">
-       
+```
+
 </a>
-
 :::
-
 
 ::: {style="text-align: center;"}
 <br>
@@ -118,7 +118,7 @@ Get in touch by e-mail:
 
 postnatalcontraception\@gmail.com
 
-<br> 
+<br>
 
 ![](images/day21_transparent.png){width="80%" fig-align="center"}
 :::
