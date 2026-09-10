@@ -47,6 +47,8 @@ format:
 
 13)  [Mühlrad, H., Björkegren, E., Haraldson, P., Bohm-Starke, N., Kopp Kallner, H. and Brismar Wendel, S. (2022) 'Interpregnancy interval and maternal and neonatal morbidity: a nationwide cohort study', Scientific Reports, 12, Article 17402](downloads/Muhlrad_et_al.pdf){download="Muhlrad_et_al.pdf"}
 
+14)  [National Institute for Health and Care Excellence. Postnatal Care. NICE Guideline NG 194. April 2021](downloads/NICE_postnatal_care_NG194.pdf){download="NICE_postnatal_care_NG194.pdf"} 
+
 <br>
 
 :::
