@@ -57,6 +57,10 @@ format:
 
 [Instructions to print our stickers on NHS blood bottle label printers ("ICE printers")](downloads/label_printing_instructions.docx){download="instructions.docx"}
 
+<br>
+
+[Condom box template for printing](downloads/condom_box_template.pdf){download="condom_box_template.pdf"}
+
 <br> <br>
 
 Get in touch by e-mail:
