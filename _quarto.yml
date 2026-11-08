@@ -39,8 +39,12 @@ website:
 
 format:
   html:
-    pretty_urls: true
-    include-in-header: meta.html
+    pretty_urls: true    
+    include-in-header:
+      - file: meta.html
+      - text: |
+          <script data-goatcounter="https://kayhaz157.goatcounter.com/count"
+                  async src="https://gc.zgo.at/count.js"></script>
     theme: darkly
     bootstrap-icons: true
     css: styles.css
