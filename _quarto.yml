@@ -6,6 +6,7 @@ project:
 
 website:
   title: " "
+  google-analytics: "G-PKTSHZP57S"
   navbar:
     background: "#8064A2"  # This sets the banner to your logo purple  #8064A2 old colour #6A317F
     type: dark             # This makes the text "Home", "About", etc. white
